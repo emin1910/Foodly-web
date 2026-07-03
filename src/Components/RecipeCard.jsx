@@ -1,5 +1,5 @@
 import { Bookmark, Eye, Pencil, Trash2 } from "lucide-react"
-import { defaultRecipeImage } from "../interfaces/recipeShape"
+import { defaultRecipeImage } from "../Interfaces/recipeShape"
 
 
 

@@ -1,5 +1,5 @@
 import { ArrowLeft, Bookmark } from "lucide-react"
-import { defaultRecipeImage } from "../interfaces/recipeShape"
+import { defaultRecipeImage } from "../Interfaces/recipeShape"
 
 
 function DetailPage({ recipe, onBack, onToggleFavorite }) {

@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { defaultRecipeImage, recipeCategories } from "../interfaces/recipeShape"
+import { defaultRecipeImage, recipeCategories } from "../Interfaces/recipeShape"
 
 
 

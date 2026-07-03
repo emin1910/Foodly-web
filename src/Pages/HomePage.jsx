@@ -1,9 +1,9 @@
 import { useState } from "react"
 import { CupSoda, IceCreamBowl, Leaf, Plus, Search, Utensils } from "lucide-react"
-import CategoryItem from "../components/CategoryItem"
-import RecipeCard from "../components/RecipeCard"
-import RecipeForm from "../components/RecipeForm"
-import BottomNav from "../components/BottomNav"
+import CategoryItem from "../Components/CategoryItem"
+import RecipeCard from "../Components/RecipeCard"
+import RecipeForm from "../Components/RecipeForm"
+import BottomNav from "../Components/BottomNav"
 
 const categories = [
   {

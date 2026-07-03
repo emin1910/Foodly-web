@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react"
-import LoginPage from "./pages/LoginPage"
-import HomePage from "./pages/HomePage"
-import DetailPage from "./pages/DetailPage"
+import LoginPage from "./Pages/LoginPage"
+import HomePage from "./Pages/HomePage"
+import DetailPage from "./Pages/DetailPage"
 import { getRecipesFromStorage, saveRecipesToStorage } from "./utils/localStorage"
 
 const USER_KEY = "foodly-user"
